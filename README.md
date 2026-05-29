@@ -232,15 +232,14 @@ fun   : "I turn caffeine into AI models"
 
 <div align="center">
 
+<img src="https://skillicons.dev/icons?i=python" height="55"/>
+
 <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy" height="55"/>
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Feature%20Engineering-4CAF50?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Data%20Analysis-2196F3?style=for-the-badge"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn" height="55"/>
 
 </div>
+
 <br>
 
 ### Frameworks
