@@ -121,7 +121,8 @@ fun   : "I turn caffeine into AI models"
 <tr>
 <td width="50%">
 
-### 🎤 Pallavi – Voice-Enabled Complaint System
+### 🎤 [Pallavi – Voice-Enabled Complaint System](https://github.com/jayanarayanmenonnettath2024aids/PALLAVI)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-FF6F61?style=flat)
@@ -131,9 +132,11 @@ fun   : "I turn caffeine into AI models"
 - End-to-end speech-to-text + NLP pipeline
 
 </td>
+
 <td width="50%">
 
-### 🅿️ ParkEase – Smart Parking System &nbsp;`🏆 Winner`
+### 🅿️ [ParkEase – Smart Parking System](https://github.com/jayanarayanmenonnettath2024aids/PARKEASE_NOVACORE) `🏆 Winner`
+
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -144,10 +147,13 @@ fun   : "I turn caffeine into AI models"
 
 </td>
 </tr>
+
 <tr>
+
 <td width="50%">
 
-### 📊 UnifyOps – Trade Data Integration &nbsp;`🥉 3rd Place`
+### 📊 [UnifyOps – Trade Data Integration](https://github.com/jayanarayanmenonnettath2024aids/omni) `🥉 3rd Place`
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
@@ -156,44 +162,22 @@ fun   : "I turn caffeine into AI models"
 - Analytics dashboards boosting efficiency by **25%**
 
 </td>
+
 <td width="50%">
 
-### ⚖️ DCA Management – AI Case Routing &nbsp;`🥉 3rd @ IITM`
+### ⚖️ [DCA Management – AI Case Routing](https://github.com/jayanarayanmenonnettath2024aids/NOVACORE_FEDEX_SMART_HACKATHON) `🥉 3rd @ IITM`
+
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
-- SLA tracking + intelligent case routing at scale
-- Improved resolution by **35%**, routing accuracy by **25%**
-- Top 15 out of 2500+ teams
+- SLA tracking + intelligent case routing
+- Improved resolution by **35%**
+- Top 15 out of **2500+ teams**
 
 </td>
-</tr>
-<tr>
-<td width="50%">
 
-### 🎬 [Movie Recommendation System](https://github.com/jayanarayanmenonnettath2024aids/MOVIE-RECOMMENDATION-SYSTEM)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-
-- TF-IDF & Cosine Similarity engine
-- Top 5 suggestions by genre, plot, director & cast
-- Interactive Streamlit UI with saved models
-
-</td>
-<td width="50%">
-
-### 🔍 [Smart Query Retrieval System](https://github.com/jayanarayanmenonnettath2024aids/Smart-Query-Retrieval-System)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![LLaMA](https://img.shields.io/badge/LLaMA-7C3AED?style=flat)
-
-- FastAPI + Grok API + LLaMA model
-- Semantic search with context-aware query handling
-- Powers chatbots & knowledge assistants
-
-</td>
 </tr>
 </table>
-
 
 ---
 
@@ -239,7 +223,6 @@ fun   : "I turn caffeine into AI models"
 <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn" height="55"/>
 
 </div>
-
 <br>
 
 ### Frameworks
@@ -250,7 +233,6 @@ fun   : "I turn caffeine into AI models"
 ### Databases
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite&perline=4"/>
-
 <br>
 
 ### Tools
