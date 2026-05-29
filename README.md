@@ -245,9 +245,7 @@ fun   : "I turn caffeine into AI models"
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python" height="55"/>
-
 <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy" height="55"/>
-
 <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn" height="55"/>
 </div>
 <br>
@@ -255,7 +253,6 @@ fun   : "I turn caffeine into AI models"
 ### Frameworks
 
 <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,react,nextjs&perline=5"/>
-
 <br>
 
 ### Databases
