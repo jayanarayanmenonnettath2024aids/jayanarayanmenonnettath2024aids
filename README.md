@@ -292,7 +292,6 @@ fun   : "I turn caffeine into AI models"
 
 &nbsp;
 
-[![SkillRack](https://img.shields.io/badge/SkillRack-1000%2B%20Solved-2ECC71?style=for-the-badge&logo=codeforces&logoColor=white)](https://www.skillrack.com/faces/resume.xhtml?id=514422&key=42a1442c25152ea092fd04ae4c0f04eb3b57a69a)
 </div>
 
 ---
