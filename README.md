@@ -1,99 +1,109 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100%">
+  <img src="YOUR_DEVELOPER_DESK_GIF_HERE" width="100%">
 </p>
 
 <h1 align="center">Jayanarayan Menon Nettath</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=AI+Builder;Hackathon+Finalist;Machine+Learning+Enthusiast;Student+Leader;Building+Products+That+Matter;Always+Learning+Always+Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Products;Machine+Learning+Enthusiast;Hackathon+Finalist;Backend+Developer;Always+Learning+Always+Building" />
 </p>
 
 <p align="center">
+  <a href="mailto:jayanarayanmenon@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
   <a href="https://linkedin.com/in/jay-menon07">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/jayanarayanmenonnettath2024aids">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🚀 About
-
-```yaml
-Name: Jayanarayan Menon Nettath
-
-Focus:
-  - Artificial Intelligence
-  - Machine Learning
-  - Data Science
-  - Backend Development
-  - Software Engineering
-
-Current Status:
-  Building AI-powered applications and solving
-  real-world problems through technology.
-```
-
----
-
-## 🌟 Leadership
-
-* 🎯 Student Head – IIT Madras BS Collaboration at SECE
-* 🤝 Coordinating academic and technical initiatives
-* 🌍 Represented Germany in UNHRC MUN
-* 💡 Active participant in hackathons and innovation challenges
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,mysql,flask,fastapi,nodejs,react,mongodb,git,github,docker,linux,vscode,tensorflow,pytorch&perline=10" />
-</p>
-
----
-
-## 🔥 Current Focus
+## 🚀 Currently Building
 
 ```bash
-> Building AI-powered applications
+> AI Career Recommendation Platform
 
-> Exploring Agentic AI systems
+> Smart Query Retrieval System
 
-> Learning advanced ML concepts
+> Agentic AI Experiments
 
-> Preparing for research opportunities
+> Backend APIs
 
-> Developing scalable backend systems
+> Automation Tools
+
+> Hackathon Solutions
 ```
 
 ---
 
 ## 💡 Featured Projects
 
-### 🔍 Smart Query Retrieval System
+### 🧠 Smart Query Retrieval System
 
-FastAPI + LLM powered semantic search platform.
+Semantic search platform powered by FastAPI and Large Language Models.
 
-### 🎬 Movie Recommendation System
-
-Machine learning based recommendation engine.
-
-### 🎓 Student Segregation Application
-
-Automation platform for academic management.
+---
 
 ### 🤖 AI Career Recommendation Platform
 
-Personalized career guidance using AI.
+Personalized career guidance and skill analysis using AI.
+
+---
+
+### 🎬 Movie Recommendation System
+
+Content-based recommendation engine powered by Machine Learning.
+
+---
+
+### 🎓 Student Segregation Application
+
+Automation platform for academic management workflows.
+
+---
+
+## ⚡ What Drives Me
+
+```text
+→ Building products that solve real problems
+
+→ Turning ideas into working software
+
+→ Learning through projects and experimentation
+
+→ Exploring AI beyond tutorials
+
+→ Constantly improving as an engineer
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="YOUR_MOVING_TECH_LOGOS_GIF" width="100%">
+</p>
+
+<br>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,mysql,flask,fastapi,nodejs,react,mongodb,git,github,docker,linux,vscode,tensorflow,pytorch&perline=10"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jayanarayanmenonnettath2024aids&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jayanarayanmenonnettath2024aids&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanarayanmenonnettath2024aids&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanarayanmenonnettath2024aids&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -101,35 +111,60 @@ Personalized career guidance using AI.
 ## ⚡ Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayanarayanmenonnettath2024aids&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jayanarayanmenonnettath2024aids&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🏆 Highlights
+## 🐍 Contribution Snake
 
-* 🥈 National-Level Hackathon Finalist
-* 🚀 Built AI & Software Projects
-* 🌍 International MUN Delegate
-* 🎤 Technical Presentations & Competitions
-* 🤝 Student Leadership & Community Building
+<p align="center">
+<img src="https://raw.githubusercontent.com/jayanarayanmenonnettath2024aids/jayanarayanmenonnettath2024aids/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 ---
 
-## 🌐 Connect
+## 🎯 Current Mission
+
+```yaml
+Build:
+  - Better Software
+  - Useful AI Products
+  - Scalable Systems
+
+Learn:
+  - Agentic AI
+  - Machine Learning
+  - System Design
+
+Goal:
+  - Create things people actually use
+```
+
+---
+
+## 📬 Contact
 
 <p align="center">
-<a href="https://github.com/jayanarayanmenonnettath2024aids">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="mailto:jayanarayanmenon@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/jay-menon07">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/jayanarayanmenonnettath2024aids">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
 ---
 
 <p align="center">
-<i>Build • Learn • Iterate • Repeat</i>
+  <img src="YOUR_TECH_COLLAGE_IMAGE" width="100%">
 </p>
+
+<h3 align="center">
+Build • Learn • Ship • Repeat 🚀
+</h3>
