@@ -217,8 +217,15 @@ fun   : "I turn caffeine into AI models"
 
 ### AI Engineering
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=langchain,huggingface" height="48"/>
+<div align="center">
 
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-6E44FF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/FAISS-0096FF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-8A2BE2?style=for-the-badge&logoColor=white" />
+
+</div>
 <br>
 
 ### Frameworks
