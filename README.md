@@ -253,8 +253,6 @@ fun   : "I turn caffeine into AI models"
 
 ## 🐍 Contribution Snake
 
-> ⚙️ *[Setup required — see instructions below the README]*
-
 <div align="center">
 
 <picture>
