@@ -89,7 +89,7 @@ fun   : "I turn caffeine into AI models"
 </tr>
 <tr>
 <td width="130" valign="top" align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="110"/>
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="110"/>
 </td>
 <td valign="top">
 
