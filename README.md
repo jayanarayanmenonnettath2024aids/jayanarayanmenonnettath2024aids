@@ -33,7 +33,7 @@ building:
 stats :
   - Rs. 90,000+ won in hackathons
   - 100+ businesses impacted via AI
-  - 250+ LeetCode | 1000+ SkillRack
+  - 270+ LeetCode | 1000+ SkillRack
 fun   : "I turn caffeine into AI models"
 ```
 
@@ -210,7 +210,7 @@ fun   : "I turn caffeine into AI models"
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="55" title="Python">
 <img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="55" title="C++">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="55" title="C">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="55" title="TypeScript">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="55" title="Java">
 
 **AI / ML / Data**
 
@@ -226,11 +226,13 @@ fun   : "I turn caffeine into AI models"
 <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="55" title="Node.js">
 <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="55" title="Docker">
 <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="55" title="MongoDB">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="55" title="Git">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="55" title="Databases">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="55" title="VS Code">
 
 <br><br>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,html,css,react,nextjs,nodejs,fastapi,flask,postgresql,mongodb,mysql,sqlite,git,github,docker,vscode,tensorflow,pytorch,linux&perline=12"/>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,java,html,css,react,nextjs,nodejs,fastapi,flask,postgresql,mongodb,mysql,sqlite,git,github,docker,vscode,tensorflow,pytorch,linux&perline=12"/>
 
 </div>
 
@@ -240,7 +242,7 @@ fun   : "I turn caffeine into AI models"
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=jayanarayanmenonnettath2024aids&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=jayanarayanmenonnettath2024aids&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&rank_icon=github"/>
 &nbsp;
 <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanarayanmenonnettath2024aids&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&langs_count=8"/>
 
@@ -252,15 +254,31 @@ fun   : "I turn caffeine into AI models"
 
 ---
 
+## 🐍 Contribution Snake
+
+> ⚙️ *[Setup required — see instructions below the README]*
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jayanarayanmenonnettath2024aids/jayanarayanmenonnettath2024aids/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jayanarayanmenonnettath2024aids/jayanarayanmenonnettath2024aids/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jayanarayanmenonnettath2024aids/jayanarayanmenonnettath2024aids/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
+
+---
+
 ## 🎯 Coding Profiles
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/Jay_Menon07?theme=dark&font=Baloo+2&ext=heatmap&border=0&radius=10" width="500"/>
+<img src="https://leetcard.jacoblin.cool/Jay_Menon07?theme=dark&font=Baloo+2&ext=contest&border=0&radius=10" width="500"/>
 
 <br><br>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-%20250%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Jay_Menon07)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%20270%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Jay_Menon07)
 &nbsp;
 [![SkillRack](https://img.shields.io/badge/SkillRack-%201000%2B%20Problems%20Solved-00C853?style=for-the-badge)](https://skillrack.com/resume)
 
