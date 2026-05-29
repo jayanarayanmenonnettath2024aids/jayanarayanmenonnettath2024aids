@@ -225,16 +225,19 @@ fun   : "I turn caffeine into AI models"
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=jayanarayanmenonnettath2024aids&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&rank_icon=github"/>
-&nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanarayanmenonnettath2024aids&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jayanarayanmenonnettath2024aids&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jayanarayanmenonnettath2024aids&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=jayanarayanmenonnettath2024aids&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayanarayanmenonnettath2024aids&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
-
 ---
 
 ## 🐍 Contribution Snake
