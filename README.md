@@ -254,17 +254,9 @@ fun   : "I turn caffeine into AI models"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jayanarayanmenonnettath2024aids&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="180"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jayanarayanmenonnettath2024aids&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanarayanmenonnettath2024aids&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jayanarayanmenonnettath2024aids&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jayanarayanmenonnettath2024aids&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
