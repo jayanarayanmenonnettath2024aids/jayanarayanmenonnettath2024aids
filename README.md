@@ -116,7 +116,6 @@ fun   : "I turn caffeine into AI models"
 </div>
 
 <br>
-
 <table>
 <tr>
 <td width="50%">
@@ -208,6 +207,7 @@ fun   : "I turn caffeine into AI models"
 
 </tr>
 </table>
+
 ---
 
 ## 🚀 Tech Stack
