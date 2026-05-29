@@ -330,18 +330,18 @@ fun   : "I turn caffeine into AI models"
 <div align="center">
 
 ```
-                              ┌──────────────────────────────────────────────────────────────┐
-                              │                                                              │
-                              │   jay@terminal:~$ cat motivation.txt                         │
-                              │                                                              │
-                              │   → Building products that solve REAL problems               │
-                              │   → Turning caffeine + code into working software            │
-                              │   → Learning through projects, not just tutorials            │
-                              │   → Exploring AI beyond the surface level                    │
-                              │   → Constantly leveling up as an engineer                    │
-                              │                                                              │
-                              │   jay@terminal:~$ █                                          │
-                              └──────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   jay@terminal:~$ cat motivation.txt                         │
+│                                                              │
+│   → Building products that solve REAL problems               │
+│   → Turning caffeine + code into working software            │
+│   → Learning through projects, not just tutorials            │
+│   → Exploring AI beyond the surface level                    │
+│   → Constantly leveling up as an engineer                    │
+│                                                              │
+│   jay@terminal:~$ █                                          │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 </div>
