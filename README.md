@@ -1,169 +1,195 @@
-````md
+# README.md
+
+```md
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100%">
 </p>
 
-<h1 align="center">Jayanarayan Menon 👋</h1>
+<h1 align="center">Jayanarayan Menon Nettath 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=AI+Engineer+in+Progress;IIT+Madras+BS+Student;Machine+Learning+Enthusiast;Hackathon+Finalist;Building+Products+That+Matter;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=AI+%7C+Data+Science+%7C+Software+Development;Hackathon+Finalist;Student+Leader;Building+AI-Powered+Products;Exploring+Agentic+AI+Systems;Future+Researcher+in+AI+%26+ML" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jayanarayanmenonnettath2024aids&label=Profile+Views&color=0e75b6&style=flat" />
+  <a href="https://linkedin.com/in/jay-menon07">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:jayanarayanmenonnettath.2024aids@sece.ac.in">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## ⚡ About Me
+## 🚀 About Me
 
-```python
-class Jayanarayan:
+I'm a passionate developer who enjoys building products that solve real-world problems.
 
-    education = [
-        "IIT Madras BS in Data Science",
-        "Sri Eshwar College of Engineering"
-    ]
+Currently pursuing:
 
-    interests = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Data Science",
-        "Software Development"
-    ]
+🎓 IIT Madras BS in Data Science & Applications
 
-    current_focus = [
-        "AI Systems",
-        "LLMs",
-        "Machine Learning",
-        "Backend Development"
-    ]
+🎓 Sri Eshwar College of Engineering
 
-    status = "Building. Learning. Improving."
-````
+My interests include:
+
+- Artificial Intelligence
+- Machine Learning
+- Agentic AI Systems
+- Backend Development
+- Data Science
+- Software Engineering
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 Leadership & Community
 
-### 🧠 Smart Query Retrieval System
+🎯 Student Head – IIT Madras BS Program Collaboration at SECE
 
-Semantic search platform using FastAPI, LLMs and intelligent query understanding.
+🤝 Coordinating initiatives between IIT Madras BS and Sri Eshwar College of Engineering
 
-### 🎬 Movie Recommendation System
+🌍 Represented Germany in UNHRC MUN
 
-Content-based recommendation engine powered by Machine Learning.
-
-### 🎓 Student Segregation Application
-
-Automates student organization and academic management workflows.
-
-### 🤖 AI Career Recommendation Platform
-
-AI-powered skill analysis and career pathway recommendations.
+💡 Active participant in hackathons, technical events, and collaborative projects
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,mysql&theme=dark"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,mysql" />
 </p>
 
-### AI / Data
+### AI / Data Science
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
 ### Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,react&theme=dark"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,react" />
 </p>
 
 ### Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 🔥 What I'm Working On
+
+🧠 AI-Powered Applications
+
+🤖 Agentic AI Systems
+
+📊 Machine Learning Projects
+
+🌐 Full-Stack Development
+
+🎯 Research Internship Opportunities
+
+---
+
+## 💡 Featured Projects
+
+### 🔍 Smart Query Retrieval System
+
+Semantic search platform powered by FastAPI and Large Language Models.
+
+### 🎬 Movie Recommendation System
+
+Content-based recommendation engine using Machine Learning.
+
+### 🎓 Student Segregation Application
+
+Automation platform for student organization and management.
+
+### 🤖 Career Recommendation Platform
+
+AI-powered career guidance and skill analysis.
+
+---
+
+## 🏆 Highlights
+
+🥈 National-Level Hackathon Finalist
+
+🎤 Technical Presentations & Competitions
+
+🚀 Multiple AI & Software Projects
+
+🌍 International MUN Delegate
+
+🤝 Student Leadership & Community Building
+
+---
+
+## 🔬 Research Interests
+
+- Large Language Models
+- Agentic AI
+- Retrieval-Augmented Generation
+- AI for Education
+- Responsible AI
+- Human-AI Collaboration
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jayanarayanmenonnettath2024aids&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanarayanmenonnettath2024aids&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jayanarayanmenonnettath2024aids&show_icons=true&theme=tokyonight&hide_border=true"/>
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanarayanmenonnettath2024aids&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
+
+## ⚡ Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayanarayanmenonnettath2024aids&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jayanarayanmenonnettath2024aids&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📈 Activity Graph
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayanarayanmenonnettath2024aids&theme=tokyo-night&hide_border=true" />
+<img src="https://raw.githubusercontent.com/jayanarayanmenonnettath2024aids/jayanarayanmenonnettath2024aids/output/github-contribution-grid-snake-dark.svg"/>
 </p>
-
----
-
-## 🏆 Achievements
-
-🏅 IIT Madras BS Degree Program
-
-🏆 National-Level Hackathon Finalist
-
-🚀 Built AI and Software Projects
-
-🎤 Technical Presentations and Competitions
-
-💡 Passionate About Solving Real Problems Through Technology
-
----
-
-## 🎯 Current Focus
-
-```bash
-> Building AI-powered applications
-> Exploring LLMs and Agentic Systems
-> Improving Software Engineering skills
-> Learning something new every day
-```
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/jayanarayanmenonnettath2024aids">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
+<a href="https://github.com/jayanarayanmenonnettath2024aids">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
-  <a href="https://linkedin.com/in/jay-menon07">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+<a href="https://linkedin.com/in/jay-menon07">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<i>"Build things that matter. Learn things that last."</i>
 </p>
-
-<h3 align="center">
-Code • Learn • Build • Repeat 🚀
-</h3>
 ```
