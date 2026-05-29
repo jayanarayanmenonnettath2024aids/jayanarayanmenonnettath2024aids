@@ -203,22 +203,43 @@ fun   : "I turn caffeine into AI models"
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,java,html,css&perline=7"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css&perline=7"/>
 
-<br><br>
+<br>
 
-### AI / ML / Data
+### AI / Machine Learning
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,mysql,postgresql,firebase&perline=6"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=6"/>
 
-<br><br>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=opencv" height="48"/>
 
-### Frameworks & Tools
+<br>
 
-<img src="https://skillicons.dev/icons?i=flask,fastapi,vue,nodejs,mongodb,git,github,docker,vscode,linux&perline=5"/>
+### AI Engineering
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=langchain,huggingface" height="48"/>
+
+<br>
+
+### Frameworks
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,react,nextjs&perline=5"/>
+
+<br>
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite&perline=4"/>
+
+<br>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode&perline=4"/>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" height="48"/>
 
 </div>
-
 ---
 
 ## 📊 GitHub Stats
