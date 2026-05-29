@@ -228,6 +228,21 @@ fun   : "I turn caffeine into AI models"
 </div>
 <br>
 
+### Data Science
+
+<div align="center">
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy" height="55"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Feature%20Engineering-4CAF50?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data%20Analysis-2196F3?style=for-the-badge"/>
+
+</div>
+<br>
+
 ### Frameworks
 
 <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,react,nextjs&perline=5"/>
@@ -286,11 +301,7 @@ fun   : "I turn caffeine into AI models"
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/Jay_Menon07?theme=dark&font=Baloo+2&ext=contest&border=0&radius=10" width="500"/>
-
-<br><br>
-
-&nbsp;
+<img src="https://leetcard.jacoblin.cool/Jay_Menon07?theme=dark&font=JetBrains+Mono&ext=contest&border=0&radius=15" width="550"/>
 
 </div>
 
