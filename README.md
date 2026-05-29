@@ -339,12 +339,25 @@ fun   : "I turn caffeine into AI models"
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayanarayanmenon@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayanarayan-menon)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jayanarayanmenonnettath2024aids)
+<a href="mailto:jayanarayanmenon@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jayanarayan-menon">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
+
+<a href="https://github.com/jayanarayanmenonnettath2024aids">
+  <img src="https://skillicons.dev/icons?i=github" height="55"/>
+</a>
 
 </div>
 
+<br>
+
+<p align="center">
+  <b>Open to AI Engineering, ML, Software Development, Research & Hackathon Collaborations</b>
+</p>
 ---
 
 <div align="center">
