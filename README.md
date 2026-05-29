@@ -278,7 +278,6 @@ fun   : "I turn caffeine into AI models"
 [![SkillRack](https://img.shields.io/badge/SkillRack-1000%2B%20Problems%20Solved-00C853?style=for-the-badge)](https://www.skillrack.com/faces/resume.xhtml?id=514422&key=42a1442c25152ea092fd04ae4c0f04eb3b57a69a)
 
 </div>
----
 
 ## 👑 Leadership
 
