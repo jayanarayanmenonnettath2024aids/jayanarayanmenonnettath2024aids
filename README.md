@@ -152,7 +152,7 @@ fun   : "I turn caffeine into AI models"
 
 <td width="50%">
 
-### 📊 [UnifyOps – Trade Data Integration](https://github.com/jayanarayanmenonnettath2024aids/omni) `🥉 3rd Place`
+### 📊 [UnifyOps – Trade Data Integration Platform](https://github.com/jayanarayanmenonnettath2024aids/omni) `🥉 3rd Place`
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
@@ -170,15 +170,44 @@ fun   : "I turn caffeine into AI models"
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
-- SLA tracking + intelligent case routing
-- Improved resolution by **35%**
+- SLA tracking + intelligent case routing at scale
+- Improved resolution by **35%**, routing accuracy by **25%**
 - Top 15 out of **2500+ teams**
 
 </td>
 
 </tr>
-</table>
 
+<tr>
+
+<td width="50%">
+
+### 🎬 [Movie Recommendation System](https://github.com/jayanarayanmenonnettath2024aids/MOVIE-RECOMMENDATION-SYSTEM)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+- TF-IDF & Cosine Similarity recommendation engine
+- Personalized recommendations using genre, cast & plot similarity
+- Interactive Streamlit UI with saved ML models
+
+</td>
+
+<td width="50%">
+
+### 🔍 [Smart Query Retrieval System](https://github.com/jayanarayanmenonnettath2024aids/Smart-Query-Retrieval-System)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA-7C3AED?style=flat)
+
+- FastAPI + Grok API + LLaMA integration
+- Context-aware semantic search and retrieval
+- Powers AI assistants and knowledge management systems
+
+</td>
+
+</tr>
+</table>
 ---
 
 ## 🚀 Tech Stack
