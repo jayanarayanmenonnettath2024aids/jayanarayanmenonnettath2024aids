@@ -217,7 +217,7 @@ fun   : "I turn caffeine into AI models"
 
 ### AI Engineering
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=langchain,langgraph,huggingface" height="48"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=langchain,huggingface" height="48"/>
 
 <br>
 
