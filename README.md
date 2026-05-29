@@ -247,6 +247,7 @@ fun   : "I turn caffeine into AI models"
 <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" height="48"/>
 
 </div>
+
 ---
 
 ## 📊 GitHub Stats
