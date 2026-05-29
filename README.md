@@ -358,6 +358,7 @@ fun   : "I turn caffeine into AI models"
 <p align="center">
   <b>Open to AI Engineering, ML, Software Development, Research & Hackathon Collaborations</b>
 </p>
+
 ---
 
 <div align="center">
