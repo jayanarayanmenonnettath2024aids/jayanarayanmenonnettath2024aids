@@ -1,145 +1,169 @@
+````md
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,12,20&text=Jayanarayan%20Menon&fontSize=60&fontAlignY=40&animation=fadeIn"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
+
+<h1 align="center">Jayanarayan Menon 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=AI+Engineer+in+Progress;IIT+Madras+BS+Student;Machine+Learning+Enthusiast;Hackathon+Finalist;Building+Products+That+Matter;Always+Learning+Something+New" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=AI+Engineer+in+Progress;Hackathon+Builder;IIT+Madras+BS+Student;Turning+Ideas+Into+Working+Products;Learning+Something+New+Every+Day;Always+Building+🚀" />
-</p>
-
-<p align="center">
-  ⚡ AI • Data Science • Development &nbsp;&nbsp;|&nbsp;&nbsp; 🏆 Hackathons &nbsp;&nbsp;|&nbsp;&nbsp; 🚀 Building Real Solutions
+  <img src="https://komarev.com/ghpvc/?username=jayanarayanmenonnettath2024aids&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## // WHO_AM_I
+## ⚡ About Me
 
 ```python
-class JayanarayanMenon:
+class Jayanarayan:
 
-    def __init__(self):
-        self.education = [
-            "IIT Madras BS in Data Science",
-            "Sri Eshwar College of Engineering"
-        ]
+    education = [
+        "IIT Madras BS in Data Science",
+        "Sri Eshwar College of Engineering"
+    ]
 
-        self.focus = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Data Science",
-            "Software Development"
-        ]
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Data Science",
+        "Software Development"
+    ]
 
-        self.current_goal = "Build impactful products"
+    current_focus = [
+        "AI Systems",
+        "LLMs",
+        "Machine Learning",
+        "Backend Development"
+    ]
 
-    def status(self):
-        return "Learning • Building • Improving"
-
-me = JayanarayanMenon()
-print(me.status())
-```
-
----
-
-## 🧠 CURRENTLY EXPLORING
-
-```text
-Machine Learning
-AI Agents
-LLMs
-Backend Development
-Cloud Technologies
-System Design
-```
+    status = "Building. Learning. Improving."
+````
 
 ---
 
-## 🚀 WHAT I ENJOY BUILDING
+## 🚀 Featured Projects
 
-▸ AI-powered applications
+### 🧠 Smart Query Retrieval System
 
-▸ Intelligent recommendation systems
+Semantic search platform using FastAPI, LLMs and intelligent query understanding.
 
-▸ Data-driven solutions
+### 🎬 Movie Recommendation System
 
-▸ Hackathon prototypes
+Content-based recommendation engine powered by Machine Learning.
 
-▸ Automation tools
+### 🎓 Student Segregation Application
 
-▸ Full-stack web applications
+Automates student organization and academic management workflows.
+
+### 🤖 AI Career Recommendation Platform
+
+AI-powered skill analysis and career pathway recommendations.
 
 ---
 
-## ⚙️ TECH STACK
+## 🛠️ Tech Stack
 
 ### Languages
 
-Python • JavaScript • C++ • SQL • HTML • CSS
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,mysql&theme=dark"/>
+</p>
 
 ### AI / Data
 
-Pandas • NumPy • Machine Learning • Data Analytics
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark"/>
+</p>
 
 ### Development
 
-Flask • REST APIs • Git • GitHub
+<p>
+<img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,react&theme=dark"/>
+</p>
 
 ### Databases
 
-MySQL • MongoDB
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
+</p>
 
 ### Tools
 
-VS Code • Jupyter • Google Colab
-
----
-
-## 📊 GITHUB ANALYTICS
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark"/>
 </p>
 
 ---
 
-## 🏆 ACHIEVEMENTS
+## 📊 GitHub Analytics
 
-🎯 IIT Madras BS Program
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jayanarayanmenonnettath2024aids&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanarayanmenonnettath2024aids&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayanarayanmenonnettath2024aids&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayanarayanmenonnettath2024aids&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+🏅 IIT Madras BS Degree Program
 
 🏆 National-Level Hackathon Finalist
 
-💡 Multiple AI & Software Projects
+🚀 Built AI and Software Projects
 
-🎤 Technical Presentations & Competitions
+🎤 Technical Presentations and Competitions
 
----
-
-## 📈 CONTRIBUTION GRAPH
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+💡 Passionate About Solving Real Problems Through Technology
 
 ---
 
-## 🎯 CURRENT MISSION
+## 🎯 Current Focus
 
 ```bash
-> Learn continuously
-> Build useful products
-> Contribute to impactful projects
-> Grow as an engineer
+> Building AI-powered applications
+> Exploring LLMs and Agentic Systems
+> Improving Software Engineering skills
+> Learning something new every day
 ```
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
+## 🌐 Connect With Me
 
 <p align="center">
-  <i>Code. Learn. Build. Repeat.</i>
+  <a href="https://github.com/jayanarayanmenonnettath2024aids">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+
+  <a href="https://linkedin.com/in/jay-menon07">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<h3 align="center">
+Code • Learn • Build • Repeat 🚀
+</h3>
+```
