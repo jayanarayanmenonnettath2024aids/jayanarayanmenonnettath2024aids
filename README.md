@@ -328,21 +328,7 @@ fun   : "I turn caffeine into AI models"
 
 ## 📬 Let's Connect
 
-<div align="center">
 
-<a href="mailto:jayanarayanmenon@gmail.com">
-  <img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="65" title="Gmail"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/jayanarayan-menon">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="65" title="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/jayanarayanmenonnettath2024aids">
-  <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="65" title="GitHub"/>
-</a>
-
-<br><br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayanarayanmenon@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayanarayan-menon)
