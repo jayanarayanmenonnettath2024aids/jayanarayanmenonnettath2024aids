@@ -194,42 +194,35 @@ fun   : "I turn caffeine into AI models"
 </tr>
 </table>
 
-
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
+<!-- Using skillicons.dev exclusively — reliable, correct logos, no broken GIFs -->
+
 **Languages**
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="55" title="JavaScript">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="55" title="Python">
-<img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="55" title="C++">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="55" title="C">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="55" title="Java">
-
-**AI / ML / Data**
-
-<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="55" title="PyTorch">
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="55" title="TensorFlow">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="55" title="AI/NLP">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c16d4f2-b757-4c70-8f42-43d5dddd2c36" width="55" title="OpenCV">
-
-**Frameworks & Tools**
-
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="55" title="React">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="55" title="Next.js">
-<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="55" title="Node.js">
-<img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="55" title="Docker">
-<img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="55" title="MongoDB">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="55" title="Git">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="55" title="Databases">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="55" title="VS Code">
+<img src="https://skillicons.dev/icons?i=python,js,cpp,c,java&theme=dark"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,java,html,css,react,nextjs,nodejs,fastapi,flask,postgresql,mongodb,mysql,sqlite,git,github,docker,vscode,tensorflow,pytorch,linux&perline=12"/>
+**AI / ML / Data**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,numpy&theme=dark"/>
+
+<br><br>
+
+**Frameworks & Backend**
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,react,nextjs,express&theme=dark"/>
+
+<br><br>
+
+**Databases & DevOps**
+
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,sqlite,docker,git,github,linux,vscode&theme=dark"/>
 
 </div>
 
@@ -239,7 +232,7 @@ fun   : "I turn caffeine into AI models"
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=jayanarayanmenonnettath2024aids&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&rank_icon=github"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=jayanarayanmenonnettath2024aids&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff"/>
 &nbsp;
 <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanarayanmenonnettath2024aids&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&langs_count=8"/>
 
@@ -299,18 +292,18 @@ fun   : "I turn caffeine into AI models"
 <div align="center">
 
 ```
-                                        ┌──────────────────────────────────────────────────────────────┐
-                                        │                                                              │
-                                        │   jay@terminal:~$ cat motivation.txt                         │
-                                        │                                                              │
-                                        │   → Building products that solve REAL problems               │
-                                        │   → Turning caffeine + code into working software            │
-                                        │   → Learning through projects, not just tutorials            │
-                                        │   → Exploring AI beyond the surface level                    │
-                                        │   → Constantly leveling up as an engineer                    │
-                                        │                                                              │
-                                        │   jay@terminal:~$ █                                          │
-                                        └──────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   jay@terminal:~$ cat motivation.txt                         │
+│                                                              │
+│   → Building products that solve REAL problems               │
+│   → Turning caffeine + code into working software            │
+│   → Learning through projects, not just tutorials            │
+│   → Exploring AI beyond the surface level                    │
+│   → Constantly leveling up as an engineer                    │
+│                                                              │
+│   jay@terminal:~$ █                                          │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 <br>
