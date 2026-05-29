@@ -249,7 +249,6 @@ fun   : "I turn caffeine into AI models"
 <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy" height="55"/>
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn" height="55"/>
-
 </div>
 <br>
 
