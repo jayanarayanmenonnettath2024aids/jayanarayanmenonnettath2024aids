@@ -227,7 +227,6 @@ fun   : "I turn caffeine into AI models"
 
 </div>
 <br>
-
 ### Data Science
 
 <div align="center">
@@ -241,19 +240,16 @@ fun   : "I turn caffeine into AI models"
 </div>
 
 <br>
-
 ### Frameworks
 
 <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,react,nextjs&perline=5"/>
 
 <br>
-
 ### Databases
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite&perline=4"/>
 
 <br>
-
 ### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode&perline=4"/>
